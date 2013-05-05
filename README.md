@@ -7,7 +7,7 @@ Keep sessions active. Prevent VPN disconnections. Or just pretend to be working 
 
 Perfect if your network admin has a domain policy that locks/hibernates/shuts-down your machine after some time of inactivity.
 
-**@copyleft all wrongs reserved**
+**@copyleft: all wrongs reserved**
 
 ###Note:
 Github is our new home!
